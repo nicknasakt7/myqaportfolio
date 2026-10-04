@@ -19,7 +19,7 @@ automation with Playwright.
 
 ## Resume
 
-## You can download my Resume from [my google drive](https://drive.google.com/file/d/1_37YLQKeBW-rHEr_hCdqO7WkT0rknmm7/view?usp=sharing)
+## You can download my Resume from [my google drive](https://drive.google.com/file/d/1g2jdD5wY4Y7N57n5Brfi4Ai8dm9MzZZP/view?usp=sharing)
 
 ## 🧪 What I Do
 
