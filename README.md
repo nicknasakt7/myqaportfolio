@@ -17,6 +17,10 @@ automation with Playwright.
 
 ---
 
+## Resume
+
+## You can download my Resume from [my google drive](https://drive.google.com/file/d/1_37YLQKeBW-rHEr_hCdqO7WkT0rknmm7/view?usp=sharing)
+
 ## 🧪 What I Do
 
 - Validate features against product requirements
