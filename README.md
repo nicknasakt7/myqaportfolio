@@ -119,11 +119,11 @@ Here are selected examples of my testing work, including test reports and test c
 - **Test Case: Passenger Page**  
   [View Test Case](https://docs.google.com/spreadsheets/d/1f2Nrzf7EsamwQwK1cxIBoXXb9u0VjDWlOpnFrjILoRw/edit?gid=1576023047#gid=1576023047)
 
-- **Test Case: TRUE Login+Payment**  
+<!-- - **Test Case: TRUE Login+Payment**
   [View Test Case](https://docs.google.com/spreadsheets/d/1f2Nrzf7EsamwQwK1cxIBoXXb9u0VjDWlOpnFrjILoRw/edit?gid=2083321990#gid=2083321990)
 
-- **Test Case: Tour System**  
-  [View Test Case](https://docs.google.com/spreadsheets/d/1f2Nrzf7EsamwQwK1cxIBoXXb9u0VjDWlOpnFrjILoRw/edit?gid=285249507#gid=285249507)
+- **Test Case: Tour System**
+  [View Test Case](https://docs.google.com/spreadsheets/d/1f2Nrzf7EsamwQwK1cxIBoXXb9u0VjDWlOpnFrjILoRw/edit?gid=285249507#gid=285249507) -->
 
 - **Scenario: Shopee**  
   [View Test Case](https://docs.google.com/spreadsheets/d/1f2Nrzf7EsamwQwK1cxIBoXXb9u0VjDWlOpnFrjILoRw/edit?gid=648465421#gid=648465421)
