@@ -19,7 +19,7 @@
 
 ## 📄 Resume
 
-You can download my Resume from [**my google drive**](https://drive.google.com/file/d/1g2jdD5wY4Y7N57n5Brfi4Ai8dm9MzZZP/view?usp=sharing)
+You can download my Resume from [**my google drive**](https://drive.google.com/file/d/1Sb0zwSFwJ52B1TXK1Pxm1_vpA2OlGB-U/view?usp=share_link)
 
 ---
 
